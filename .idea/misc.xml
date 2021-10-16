@@ -5,6 +5,14 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cemal/Desktop/android-free-tour/app/src/main/res/drawable/search_backgroud.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/cemal/Desktop/android-free-tour/app/src/main/res/layout/activity_maps.xml" value="0.14945652173913043" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
